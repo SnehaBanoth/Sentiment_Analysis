@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment Analysis
 Title: Data Pipeline for Sentiment Analysis on Weather Tweets using Twitter API and OpenWeather API
 
 The data pipeline consists of the following steps;
