@@ -16,3 +16,6 @@ iii) Vectorization
 
 5. Data Visualization: The predictions of sentiment of tweets by the machine learning model and
 actual weather are visualized on Kibana
+
+The data pipeline is as follows:
+![Screenshot](data_pipeline.png)
